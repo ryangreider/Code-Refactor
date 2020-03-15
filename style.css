@@ -45,7 +45,7 @@ a {
 }
 /* End of header */
 
-
+/* ----------------------------------------------------- */
 
 /* Big Meeting Picture */
 .hero {
@@ -61,7 +61,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* ------------------------------------------------------- */
 /* Content Style */
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -91,7 +91,41 @@ p {
 }  
 /* Content Style End */
 
+/* ---------------------------------- */
+/* Content Images */
+.search-engine-optimization img {
+    max-height: 200px;
+}
 
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+/* End */
+
+
+
+/* Content Headers */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* End */
+
+/* ------------------------------------ */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -107,7 +141,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Box */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,7 +152,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Box properties */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,7 +167,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* ----------------------------- */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -148,7 +182,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* ------------------------------ */
+/* Images () */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -168,34 +203,7 @@ p {
 }
 
 
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* ----------------------------- */
 .footer {
     padding: 30px;
     clear: both;
